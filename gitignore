@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Power BI temporary / cache files
+*.pbi.tmp
+*.pbix.tmp
+.pbi/
+
+# Local databases
+*.db
+*.sqlite
