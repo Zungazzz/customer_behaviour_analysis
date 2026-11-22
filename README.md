@@ -10,7 +10,7 @@ Understand who the customers are and what drives revenue: which segments (gender
 
 ## Dataset
 
-- Raw and Proccessed dataset attatched in the data folder
+- Raw and Processed dataset attatched in the data folder
 - **Size:** 3,900 rows, 18 columns (19 after feature engineering, 19 after dropping a duplicate column)
 - **Key columns:** `customer_id`, `age`, `gender`, `item_purchased`, `category`, `purchase_amount`, `location`, `season`, `review_rating`, `subscription_status`, `shipping_type`, `discount_applied`, `previous_purchases`, `payment_method`, `frequency_of_purchases`
 
@@ -89,8 +89,11 @@ customer-shopping-behavior-analysis/
 │   ├── 01_create_table.sql
 │   └── 02_business_queries.sql
 └── dashboard/
-    ├── customer_shopping_dashboard.pbix
-    └── dashboard_preview.png
+│   ├── customer_shopping_dashboard.pbix
+│   └── dashboard_preview.png
+├── report/
+│   ├── customer_shopping_behavior_cleaned.pdf
+│   ├── customer_shopping_behavior_cleaned.pptx
 ```
 
 ## How to run
