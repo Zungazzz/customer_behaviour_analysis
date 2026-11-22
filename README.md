@@ -108,4 +108,4 @@ customer-shopping-behavior-analysis/
 
 ## Author
 
-Nishan Jung Suwal · [GitHub](https://github.com/Zungazzz/customer_behaviour_analysis)
+Nishan Jung Suwal · [GitHub](https://github.com/Zungazzz/)
